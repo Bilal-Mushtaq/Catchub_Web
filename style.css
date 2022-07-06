@@ -1,0 +1,204 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #e7e8e9, #edeeee, #f3f3f4, #f9f9f9, #ffffff);
+}
+
+.top-section {
+    display: flex;
+    justify-content: center;
+    padding-top: 125px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.top-section .left {
+    padding-left: 30px;
+}
+
+.top-section .logo {
+    margin-top: 18px;
+}
+
+.top-section h2 {
+    line-height: 2;
+    letter-spacing: 5px;
+    font-size: xx-large;
+}
+
+.top-section p {
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    color: rgb(90, 85, 85);
+}
+
+.logo {
+    padding-top: 20px;
+    width: 370px;
+    height: 190px;
+    margin-left: 110px;
+}
+
+.top-section .app-stores img {
+    margin-top: 15px;
+    width: 233px;
+    margin-left: 15px;
+    height: 100px;
+}
+
+.app-stores {
+    padding-top: 55px;
+}
+
+.top-screens {
+    width: 700px;
+    height: 600px;
+}
+
+
+/* --------------------------------Section Section-------------------------------------------- */
+.second-section {
+    margin-bottom: 50px;
+}
+
+.second-section .channels {
+    display: flex;
+    justify-content: center;
+}
+
+.second-section .channels img {
+    width: 700px;
+    height: 700px;
+    margin-right: 70px;
+}
+
+.second-section .channels h2 {
+    margin-top: 16px;
+    letter-spacing: 6px;
+    padding-top: 150px;
+    padding-bottom: 30px;
+    padding-right: 70px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.second-section .channels p {
+
+    text-align: center;
+    padding-right: 70px;
+    /* padding: auto; */
+    font-size: 2.0rem;
+    color: rgb(90, 85, 85);
+    letter-spacing: 2px;
+}
+
+.second-section .messages {
+    display: flex;
+    justify-content: center;
+}
+
+.second-section .messages img {
+    width: 650px;
+    height: 650px;
+    margin-left: 120px;
+}
+
+.second-section .messages h2 {
+    letter-spacing: 6px;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 150px;
+}
+
+.second-section .messages p {
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 2.0rem;
+    padding: auto;
+    letter-spacing: 2px;
+    /* font-size: 1.4rem; */
+    padding-top: 30px;
+    color: rgb(90, 85, 85);
+
+}
+
+/* ---------------------------------------Third Section---------------------------------- */
+
+
+.third-section {
+    display: flex;
+    justify-content: center;
+}
+
+.third-section img {
+    width: 650px;
+    height: 700px;
+}
+
+.third-section .vector {
+    height: 120px;
+    margin-top: 91px;
+    padding-top: 31px;
+}
+
+.third-section h2 {
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: 2.2rem;
+    margin-top: 52px;
+    margin-bottom: 45px;
+}
+
+.third-section p {
+    text-align: center;
+    padding: auto;
+    font-size: 2rem;
+    color: rgb(90, 85, 85);
+
+}
+
+/* -------------------------------------Last Section-------------------------------------------- */
+.last-section {
+    background-image: linear-gradient(to bottom right, white 50%, rgb(206, 204, 204));
+    text-align: center;
+}
+
+.app-stores1 {
+    padding-top: 34px;
+    padding-bottom: 40px;
+}
+
+.last-section .app-stores1 img {
+    width: 225px;
+    padding-left: 18px;
+}
+
+.last-section p {
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(90, 85, 85);
+}
+
+.last-section .main {
+
+    font-size: 2rem;
+    margin-top: 100px;
+}
+
+.primary {
+    color: #2794f9;
+}
+
+.peratude {
+    margin: auto;
+    width: 120px;
+    margin-top: 40px;
+    /* height: 122px; */
+}
+
